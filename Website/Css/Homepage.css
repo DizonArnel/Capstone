@@ -114,7 +114,7 @@ header{
 /*Home*/
 .home{
     margin-top: 8rem;
-    background: url(/Project/Website/Assets/View3.png);
+    background: url(../Assets/View3.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -287,6 +287,11 @@ transition: 0.4s all linear;
 }
 
 .properties-container .box a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.properties-container .box a{
     text-decoration: none;
     color: inherit;
 }

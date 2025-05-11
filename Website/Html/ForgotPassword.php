@@ -16,7 +16,7 @@
            </form>
         </div>
         <div class="login-image">
-            <img src="/Project/Website/Assets/ForgotSticker.png" alt="">
+            <img src="../Assets/ForgotSticker.png" alt="">
         </div>
     </div>
 

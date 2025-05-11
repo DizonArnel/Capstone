@@ -4,17 +4,17 @@
     <section class="home container" id="home">
         <div class="home-text">
             <h1>Find Your Next<br>Perfect Place To<br>Relax</h1>
-            <a href="/Project/Website/Html/Signup.php" class="btn">Sign Up</a>
+            <a href="../Html/Signup.php" class="btn">Sign Up</a>
         </div>
     </section>
 
     <!--About-->
     <section class="about container" id="about">
         <div class="about-img">
-            <img src="/Project/Website/Assets/AboutUs.jpg" alt="">
+            <img src="../Assets/AboutUs.jpg" alt="">
         </div>
         <div class="about-text">
-            <span>About US</span>
+            <span>About Us</span>
             <h2>We Provide The Best<br>Place For You</h2>
             <p>We’re a family-owned staycation business with eight homes, all located with beautiful city lights or surrounded by peaceful nature.</p>
             <p> Whether you want to enjoy the city lights or relax in the calm of nature, we’ve created spaces where you can slow down and feel right at home.</p>
@@ -55,8 +55,8 @@
         <div class="properties-container container">
             <!--1-->
             <div class="box">
-                <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House1.png" alt="">
+                <a href="../Html/Booking.php">
+                <img src="../Assets/House1.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -72,8 +72,8 @@
             </div>
             <!--2-->
             <div class="box">
-            <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House2.png" alt="">
+            <a href="../Html/Booking.php">
+                <img src="../Assets/House2.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -89,8 +89,8 @@
             </div>
             <!--3-->
             <div class="box">
-            <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House3.png" alt="">
+            <a href="../Html/Booking.php">
+                <img src="../Assets/House3.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -106,8 +106,8 @@
             </div>
             <!--4-->
             <div class="box">
-            <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House4.png" alt="">
+            <a href="../Html/Booking.php">
+                <img src="../Assets/House4.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -123,8 +123,8 @@
             </div>
             <!--5-->
             <div class="box">
-            <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House5.png" alt="">
+            <a href="../Html/Booking.php">
+                <img src="../Assets/House5.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -140,8 +140,8 @@
             </div>
             <!--6-->
             <div class="box">
-            <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House1.png" alt="">
+            <a href="../Html/Booking.php">
+                <img src="../Assets/House1.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -157,8 +157,8 @@
             </div>
             <!--7-->
             <div class="box">
-            <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House2.png" alt="">
+            <a href="../Html/Booking.php">
+                <img src="../Assets/House2.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -174,8 +174,8 @@
             </div>
             <!--8-->
             <div class="box">
-            <a href="/Project/Website/Html/Booking.php">
-                <img src="/Project/Website/Assets/House3.png" alt="">
+            <a href="../Html/Booking.php">
+                <img src="../Assets/House3.png" alt="">
                 <h3>2,000php</h3>
                 <div class="content">
                     <div class="text">
@@ -269,7 +269,7 @@
 </div>
 
 <!--Chatbot Javascript-->
-<script src="/Project/Website/Javascript/ChatBot.js"></script>
+<script src="../Javascript/ChatBot.js"></script>
 
 <?php include 'Contact.php'; ?>
 

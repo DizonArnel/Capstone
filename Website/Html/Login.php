@@ -11,12 +11,12 @@
             <span>Enter your password</span>
             <input type="password" name="" id="" placeholder="Password" required>
             <input type="submit" value="Log In" class="buttom">
-            <a href="/Project/Website/Html/ForgotPassword.php">Forget Password?</a>
+            <a href="../Html/ForgotPassword.php">Forget Password?</a>
            </form>
-           <a href="/Project/Website/Html/Signup.php" class="btn">Sign up now</a>
+           <a href="../Html/Signup.php" class="btn">Sign up now</a>
         </div>
         <div class="login-image">
-            <img src="/Project/Website/Assets/HomeSticker.png" alt="">
+            <img src="../Assets/HomeSticker.png" alt="">
         </div>
     </div>
 

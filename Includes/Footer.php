@@ -1,7 +1,7 @@
 <!--Footer-->
 <section class="footer">
         <div class="footer-container container">
-            <h2>Dicimulation</h2>
+            <h2>Dicimulacion</h2>
             <div class="footer-box">
                 <h3>Quick Links</h3>
                 <a href="#">Terms</a>
