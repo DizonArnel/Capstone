@@ -14,7 +14,7 @@
             <img src="/Project/Website/Assets/AboutUs.jpg" alt="">
         </div>
         <div class="about-text">
-            <span>About Us</span>
+            <span>About US</span>
             <h2>We Provide The Best<br>Place For You</h2>
             <p>We’re a family-owned staycation business with eight homes, all located with beautiful city lights or surrounded by peaceful nature.</p>
             <p> Whether you want to enjoy the city lights or relax in the calm of nature, we’ve created spaces where you can slow down and feel right at home.</p>
