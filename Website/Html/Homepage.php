@@ -191,6 +191,81 @@
             </div>
         </div>
     </section>
+    
+<section class="testimonials">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="title">What Our Clients Say</h2>
+    </div>
+
+    <div class="testimonials-content">
+      <div class="swiper testimonials-slider js-testimonials-slider">
+        <div class="swiper-wrapper">
+
+          <!-- Slide 1 -->
+          <div class="swiper-slide testimonials-item">
+            <div class="info">
+              <img src="../Assets/Matt.png" alt="">
+              <div class="text-box">
+                <h3 class="name">Darwin</h3>
+              </div>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+              <div class="rating">
+                <i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 2 -->
+          <div class="swiper-slide testimonials-item">
+            <div class="info">
+              <img src="../Assets/test.jpg" alt="">
+              <div class="text-box">
+                <h3 class="name">Sophia</h3>
+              </div>
+              <p>Excellent service and support. Highly recommend!</p>
+              <div class="rating">
+                <i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 3 -->
+          <div class="swiper-slide testimonials-item">
+            <div class="info">
+              <img src="../Assets/Matt.png" alt="">
+              <div class="text-box">
+                <h3 class="name">Liam</h3>
+              </div>
+              <p>They delivered more than I expected. Fantastic job!</p>
+              <div class="rating">
+                <i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star-half'></i>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 4 -->
+          <div class="swiper-slide testimonials-item">
+            <div class="info">
+              <img src="../Assets/test.jpg" alt="">
+              <div class="text-box">
+                <h3 class="name">Ava</h3>
+              </div>
+              <p>Truly professional and creative. Will work again!</p>
+              <div class="rating">
+                <i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
 
 <!--Chatbot-->
 <div class="CHT">
@@ -267,6 +342,27 @@
   </div>
 </div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+  const swiper = new Swiper('.js-testimonials-slider', {
+    loop: true,
+    slidesPerView: 1,
+    spaceBetween: 30,
+    autoplay: {
+      delay: 3000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  });
+</script>
 
 <!--Chatbot Javascript-->
 <script src="../Javascript/ChatBot.js"></script>
