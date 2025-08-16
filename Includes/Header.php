@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/bold/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
     <link href='https://cdn.boxicons.com/fonts/basic/boxicons.min.css' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.css" rel="stylesheet"/>
     <title>Dicimulacion Staycation</title>
 </head>
 <body>
@@ -26,6 +27,8 @@
                 <li><a href="../Html/Homepage.php#about">About us</a></li>
                 <li><a href="../Html/Homepage.php#properties">Houses</a></li>
                 <li><a href="../Html/Homepage.php#contact">Contact us</a></li>
+                <li class="mobile-signin"><a href="../Html/Login.php" class="btn">Sign In</a></li> <!-- moved here -->
+    </ul>
             </ul>
             <!--Log In-->
             <a href="../Html/Login.php" class="btn">Log In</a>
