@@ -22,15 +22,13 @@
             <input type="checkbox" name="" id="menu">
             <label for= "menu"><i class='bx bx-menu' id="menu-icon"></i></label>
             <!--Nav List-->
-            <ul class="navbar">
-                <li><a href="../Html/Homepage.php">Home</a></li>
-                <li><a href="../Html/Homepage.php#about">About us</a></li>
-                <li><a href="../Html/Homepage.php#properties">Houses</a></li>
-                <li><a href="../Html/Homepage.php#contact">Contact us</a></li>
-                <li class="mobile-signin"><a href="../Html/Login.php" class="btn">Sign In</a></li> <!-- moved here -->
-    </ul>
-            </ul>
-            <!--Log In-->
-            <a href="../Html/Login.php" class="btn">Log In</a>
-        </div>
-    </header>
+             <ul class="navbar">
+            <li><a href="../Html/Homepage.php">Home</a></li>
+            <li><a href="../Html/Homepage.php#about">About us</a></li>
+            <li><a href="../Html/Homepage.php#properties">Houses</a></li>
+            <li><a href="../Html/Homepage.php#contact">Contact us</a></li>
+            <!-- Log In moved inside menu -->
+            <li><a href="../Html/Login.php" class="btn">Log In</a></li>
+        </ul>
+    </div>
+</header>
