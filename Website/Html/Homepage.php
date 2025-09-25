@@ -20,7 +20,7 @@
             <p> Whether you want to enjoy the city lights or relax in the calm of nature, we’ve created spaces where you can slow down and feel right at home.</p>
             <p>Each of our homes is carefully designed and cared for by our family to make sure your stay is comfortable and memorable.</p>
             <p>We believe in treating guests like friends, with thoughtful details and a personal touch that make all the difference. Come stay with us—and be a part of our story.</p>
-            <a href="#" class="btn">Learn More</a>
+            <a href="../Html/Terms&Condition.php" class="btn">Learn More</a>
         </div>
     </section>
 

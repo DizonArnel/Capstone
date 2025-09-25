@@ -4,8 +4,7 @@
             <h2>Dicimulacion</h2>
             <div class="footer-box">
                 <h3>Quick Links</h3>
-                <a href="#">Terms</a>
-                <a href="#">Privacy</a>
+                <a href="../Html/Terms&Condition.php">Terms & Condition</a>
             </div>
             <div class="footer-box">
                 <h3>Contact</h3>

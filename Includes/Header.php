@@ -27,6 +27,7 @@
             <li><a href="../Html/Homepage.php#about">About us</a></li>
             <li><a href="../Html/Homepage.php#properties">Houses</a></li>
             <li><a href="../Html/Homepage.php#contact">Contact us</a></li>
+            <li><a href="../Html/Reviews.php">Reviews</a></li>
             <!-- Log In moved inside menu -->
             <li><a href="../Html/Login.php" class="btn">Log In</a></li>
         </ul>

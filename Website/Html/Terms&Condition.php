@@ -10,9 +10,10 @@
       <p>All bookings must be confirmed with accurate guest details. Payments must be settled before the check-in date unless otherwise agreed.</p>
       <p>If your booking is <strong>approved</strong>, you are required to pay within <strong>24 hours</strong>. Failure to do so will result in your reservation being <strong>automatically cancelled</strong>.</p>
 
-      <h3>2. Cancellation</h3>
-      <p>Cancellations made at least 48 hours before the check-in date will be eligible for a refund. Late cancellations may be subject to fees.</p>
-      <p>Guests can <strong>only cancel their reservation if the booking status is still Pending</strong>. Once approved, cancellations are no longer possible by the guest.</p>
+    <h3>2. Cancellation</h3>
+      <p>Cancellations made at least <strong>one week</strong> prior to the scheduled check-in date are allowed; however, please be advised that refunds will <strong>not</strong> be issued under these circumstances.</p>
+      <p>We highly recommend considering the option to reschedule your booking to an alternative date, as this may better accommodate your needs.</p>
+
 
       <h3>3. Guest Responsibilities</h3>
       <p>Guests are expected to respect the property, neighbors, and house rules. Any damages caused during the stay may result in additional charges.</p>
